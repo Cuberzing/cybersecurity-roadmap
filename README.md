@@ -1,4 +1,4 @@
-# 🗺️ Cybersecurity Roadmap — Leonel Powell
+# 🗺️ Cybersecurity Roadmap — Leonel 
 
 My personal cybersecurity learning path. This documents where I started, what I've built hands-on, what I'm currently working on, and where I'm headed. Updated as I progress.
 
