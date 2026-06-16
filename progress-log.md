@@ -37,3 +37,10 @@
 - Started DNS in Detail (13% complete)
 - Flashed Kali Linux with 16GB persistence onto 32GB USB
 - Bought TP-Link Archer T2U scheduled for June 26th paycheck
+
+## June 16, 2026
+- Completed DNS in Detail room
+- Completed How Websites Work room (HTML injection lab)
+- Started How the Web Works module 4
+- Learned about Load Balancers, CDNs, Databases, WAF
+- Applied job hunting strategy mapped out
