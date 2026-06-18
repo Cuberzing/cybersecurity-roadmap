@@ -44,3 +44,8 @@
 - Started How the Web Works module 4
 - Learned about Load Balancers, CDNs, Databases, WAF
 - Applied job hunting strategy mapped out
+
+## June 17, 2026
+- Completed How Websites Work module
+- Learned Load Balancers, CDN, WAF, Databases
+- Started How the Internet Works - Client Server basics
