@@ -55,3 +55,10 @@
 - Completed Virtualization Basics (VMs, Containers, Docker)
 - Started Operating Systems Basics
 - Learned cloud scalability concepts
+
+## June 19, 2026
+- Completed Operating Systems Basics room (Linux fundamentals)
+- Started Windows Basics room
+- Deep dive into WiFi pentesting theory — PMKID attacks, dictionary vs brute force, Evil Twin attacks, hash cracking math
+- Researched RTX 4050 cracking performance for future TP-Link practice
+- Confirmed WiFi pentesting permission with neighbor for future authorized testing
