@@ -77,3 +77,9 @@
 - Completed Module 6: Software Basics (JavaScript fundamentals, SQL query structure)
 - Created new repo: tryhackme-writeups
 - One module remaining in Pre-Security path
+
+## June 23, 2026
+- COMPLETED Pre-Security Learning Path on TryHackMe (19h10m total)
+- Earned official Pre-Security completion certificate
+- Started Cyber Security 101 
+- Next: Jr Penetration Tester path
