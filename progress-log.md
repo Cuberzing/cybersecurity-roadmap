@@ -59,6 +59,21 @@
 ## June 19, 2026
 - Completed Operating Systems Basics room (Linux fundamentals)
 - Started Windows Basics room
-- Deep dive into WiFi pentesting theory — PMKID attacks, dictionary vs brute force, Evil Twin attacks, hash cracking math
+- Deep dive into WiFi pentesting theory PMKID attacks, dictionary vs brute force, Evil Twin attacks, hash cracking math
 - Researched RTX 4050 cracking performance for future TP-Link practice
 - Confirmed WiFi pentesting permission with neighbor for future authorized testing
+
+## June 20, 2026
+- Continued Operating Systems Basics room
+- Researched WiFi pentesting attack types (again) PMKID, Evil Twin, KARMA, WPA3 downgrade
+
+## June 21, 2026
+- Completed Operating Systems Basics room
+- First real privilege escalation chain: SSH access, password guessing, found root credentials exposed in command history, escalated to root
+- Started Windows Basics room
+
+## June 22, 2026
+- Completed Module 5: Operating Systems Basics
+- Completed Module 6: Software Basics (JavaScript fundamentals, SQL query structure)
+- Created new repo: tryhackme-writeups
+- One module remaining in Pre-Security path
