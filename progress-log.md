@@ -83,3 +83,14 @@
 - Earned official Pre-Security completion certificate
 - Started Cyber Security 101 
 - Next: Jr Penetration Tester path
+
+## June 24 - July 2, 2026
+- Personal commitments took priority; limited technical activity during this period
+
+## July 3, 2026
+- Full WiFi penetration test: monitor mode, handshake capture via deauth, cracked with Aircrack-ng
+- Created new repo: wifi-pentest-lab
+- Installed and configured BeEF framework
+- Hooked browsers on desktop AND phone (cross-device via local network)
+- Tested 8 BeEF modules: geolocation, internal IP, battery status, fake notifications, fake Flash update, Google phishing, Pretty Theft
+- Created new repo: beef-browser-exploitation-lab
