@@ -94,3 +94,7 @@
 - Hooked browsers on desktop AND phone (cross-device via local network)
 - Tested 8 BeEF modules: geolocation, internal IP, battery status, fake notifications, fake Flash update, Google phishing, Pretty Theft
 - Created new repo: beef-browser-exploitation-lab
+
+## July 4, 2026 — Completed TryHackMe Windows Fundamentals 1 (Jr Penetration Tester path). 
+Covered Windows editions, system directory structure, Task Manager, and user account basics. 
+Starting Windows Fundamentals 2 next session.
