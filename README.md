@@ -10,7 +10,7 @@ My personal cybersecurity learning path. This documents where I started, what I'
 
 ---
 
-## ✅ Hands-On Skills — Already Built
+## ✅ Hands-On Skills - Already Built
 
 These aren't planned. These are done.
 
