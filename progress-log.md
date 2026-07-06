@@ -98,3 +98,12 @@
 ## July 4, 2026 — Completed TryHackMe Windows Fundamentals 1 (Jr Penetration Tester path). 
 Covered Windows editions, system directory structure, Task Manager, and user account basics. 
 Starting Windows Fundamentals 2 next session.
+
+July 5, 2026 — No hands-on lab work today (personal circumstances). 
+Reinforced concepts via video study: unrestricted file upload → RCE via 
+malicious PHP payload, recon-to-brute-force chain (host discovery → gobuster 
+directory enumeration → Hydra password cracking on admin panel), and SQL 
+injection auth bypass (' OR 1=1-- comment-based logic to skip credential 
+check). No new tools used, but strengthened understanding of concepts 
+already touched in prior labs (gobuster/hydra chain mirrors home-network-scan 
+work).
