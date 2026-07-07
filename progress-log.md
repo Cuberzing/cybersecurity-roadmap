@@ -99,7 +99,7 @@
 Covered Windows editions, system directory structure, Task Manager, and user account basics. 
 Starting Windows Fundamentals 2 next session.
 
-July 5, 2026 — No hands-on lab work today (personal circumstances). 
+## July 5 - 6 2026 — No hands-on lab work today (personal circumstances). 
 Reinforced concepts via video study: unrestricted file upload → RCE via 
 malicious PHP payload, recon-to-brute-force chain (host discovery → gobuster 
 directory enumeration → Hydra password cracking on admin panel), and SQL 
@@ -107,3 +107,28 @@ injection auth bypass (' OR 1=1-- comment-based logic to skip credential
 check). No new tools used, but strengthened understanding of concepts 
 already touched in prior labs (gobuster/hydra chain mirrors home-network-scan 
 work).
+
+## July 7, 2026 — BeEF Browser Exploitation Lab, Part 2
+
+Built a fully functional fake e-commerce site (Kinetic Gear) with real HTML/CSS/JS 
+(product grid, working cart interaction, newsletter form) to replace the bare test 
+page used in the original BeEF lab — better simulates hooking a realistic target vs. 
+an empty shell page. Site built with separated HTML/CSS/JS files (not single-file) 
+for a more realistic, maintainable structure.
+
+Hosted via python3 -m http.server, hooked via BeEF on local network (wlan0, 
+192.168.100.197). Recovered lost BeEF admin credentials via /etc/beef-xss/config.yaml 
+after losing the original login.
+
+Modules tested:
+- Get Geolocation — retrieved device location
+- Get Page HTML — pulled full rendered page source
+- Keylogger — captured keystrokes on hooked session in real time
+- Infinite Alert/Request loop — DoS-style browser disruption module
+- Fake Notification Bar (Social Engineering) — rendered a convincing fake 
+  update/permission prompt with a custom link target
+
+Reinforced understanding of the social engineering side of client-side attacks — 
+technical hooking is only half the exploitation chain; modules like the fake 
+notification bar depend entirely on exploiting user trust/habit rather than any 
+software vulnerability.
