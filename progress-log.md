@@ -132,3 +132,16 @@ Reinforced understanding of the social engineering side of client-side attacks �
 technical hooking is only half the exploitation chain; modules like the fake 
 notification bar depend entirely on exploiting user trust/habit rather than any 
 software vulnerability.
+
+## July 23, 2026 — Active Directory Basics (TryHackMe Jr Penetration Tester)
+
+Covered core AD concepts: domains vs workgroups, Domain Controllers, Organizational 
+Units (OUs), and Group Policy. Practical tasks included using RDP to connect to 
+target machines, leveraging Phillip's delegated permissions to reset Sophie's 
+password via PowerShell, and understanding Kerberos/NetNTLM authentication protocols.
+
+Key learning: AD is about centralized management — one DC authenticates and manages 
+permissions for an entire network instead of individual machine configs. Practical 
+AD experience directly applicable to help desk/IT support roles.
+
+Completed all tasks including authentication method walkthrough.
