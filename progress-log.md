@@ -14,7 +14,7 @@
 - Scanned router - identified filtered SSH, Telnet, FTP ports
 - Confirmed ADB vulnerability on Smart TV via Kali
 - Identified PS4 on network via MAC vendor lookup
-- 
+
 ## June 13, 2026
 - Purchased TryHackMe premium
 - Completed Pre-Security: Intro to LAN
@@ -145,3 +145,19 @@ permissions for an entire network instead of individual machine configs. Practic
 AD experience directly applicable to help desk/IT support roles.
 
 Completed all tasks including authentication method walkthrough.
+
+## August 28, 2026 — TryHackMe Command Line Progress
+
+- Resumed structured TryHackMe study
+- Completed the Windows Command Line room
+- Practiced gathering Windows system and network information, managing files and directories, inspecting processes, and using built-in command help
+- Started the Windows PowerShell room and reached roughly the halfway point before the session ended
+
+## August 29, 2026 — Command Line and Networking Progress
+
+- Completed the Windows PowerShell room
+- Practiced PowerShell command discovery, object pipelines, filtering, sorting, system analysis, network information gathering, and basic scripting
+- Completed the Linux Shells room, covering shell interaction, shell types, and introductory shell scripting
+- Completed the Networking Concepts room, covering the OSI and TCP/IP models, IP addressing and subnets, TCP vs UDP, ports, and encapsulation
+- Started the Networking Essentials room; progress paused when the session ended
+- Next: finish Networking Essentials, then continue into Networking Core Protocols
