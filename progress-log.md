@@ -161,3 +161,34 @@ Completed all tasks including authentication method walkthrough.
 - Completed the Networking Concepts room, covering the OSI and TCP/IP models, IP addressing and subnets, TCP vs UDP, ports, and encapsulation
 - Started the Networking Essentials room; progress paused when the session ended
 - Next: finish Networking Essentials, then continue into Networking Core Protocols
+
+## August 30, 2026 — Networking Progress
+
+- Completed the Networking Essentials room
+- Completed the Networking Core Protocols room
+- Completed the Networking Secure Protocols room
+- Started Wireshark: The Basics
+- Did not take detailed notes during the session; revisited the material through recall afterward
+
+## September 2–4, 2026 — Wireshark and Tcpdump Progress (Approximate Dates)
+
+- Continued studying Wireshark: The Basics and completed the room during this period
+- Recalled working on one Wireshark task on Thursday, September 3, and finishing the room around Friday, September 4
+- Earlier recollection placed Wireshark completion sooner; the exact task and completion dates remain approximate
+- Started Tcpdump: The Basics around Friday, September 4
+
+## September 5, 2026 — Tcpdump: The Basics
+
+- Completed the Tcpdump: The Basics room
+
+## September 6, 2026 — Study Break
+
+- No TryHackMe study completed this day
+
+## September 8, 2026 — Recall Review and Study Notes
+
+- Completed a closed-book recall review of Windows Command Line, Windows PowerShell, Linux Shells, Networking Concepts, Networking Essentials, Networking Core Protocols, Networking Secure Protocols, Wireshark: The Basics, and Tcpdump: The Basics
+- Reviewed and corrected gaps in PowerShell pipelines, network models, packet structure, DHCP, ARP, NAT, DNS, email protocols, secure communications, and packet analysis
+- Kept personal analogies for PowerShell pipelines, TCP vs UDP, DNS, and TLS to help the concepts stick
+- Added the reconstructed room notes and a notes index to [tryhackme-writeups](https://github.com/Cuberzing/tryhackme-writeups#room-notes)
+- This entry records review and documentation work, not nine new room completions
